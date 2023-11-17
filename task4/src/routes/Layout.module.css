@@ -1,0 +1,19 @@
+*{
+    font-family: "Roboto", sans-serif ;
+}
+.linkActive{
+    color: red;
+}
+
+header{
+    margin-right: 100px;
+    display: flex;
+    justify-content: end;
+    gap: 40px;
+}
+
+.wrapper{
+    width: 80%;
+    margin: 40px auto;
+}
+
